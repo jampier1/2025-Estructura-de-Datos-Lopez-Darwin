@@ -1,0 +1,31 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+
+# VS Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Publish output
+*.dll
+*.exe
+
+# Other
+Thumbs.db
+*.pdb
