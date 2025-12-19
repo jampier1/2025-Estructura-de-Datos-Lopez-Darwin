@@ -1,0 +1,15 @@
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.AssemblyInfoInputs.cache
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.AssemblyInfo.cs
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.csproj.CoreCompileInputs.cache
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.sourcelink.json
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\bin\Debug\net10.0\CPE_1.exe
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\bin\Debug\net10.0\CPE_1.deps.json
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\bin\Debug\net10.0\CPE_1.runtimeconfig.json
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\bin\Debug\net10.0\CPE_1.dll
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\bin\Debug\net10.0\CPE_1.pdb
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.dll
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\refint\CPE_1.dll
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.pdb
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\CPE_1.genruntimeconfig.cache
+C:\Users\jamlo\Documents\2025-Estructura-de-Datos-Lopez-Darwin\Semana 04\CPE_1\obj\Debug\net10.0\ref\CPE_1.dll
