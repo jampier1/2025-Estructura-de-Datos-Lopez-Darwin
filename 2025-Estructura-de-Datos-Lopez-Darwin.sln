@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Semana 02", "Semana 02", "{51A93EDA-B8E0-1743-5A41-E94E0AB5A3E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figuras", "Semana 02\Figuras\Figuras.csproj", "{A4414B06-02C8-DE98-9C06-2A630728874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4414B06-02C8-DE98-9C06-2A630728874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4414B06-02C8-DE98-9C06-2A630728874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4414B06-02C8-DE98-9C06-2A630728874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4414B06-02C8-DE98-9C06-2A630728874A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4414B06-02C8-DE98-9C06-2A630728874A} = {51A93EDA-B8E0-1743-5A41-E94E0AB5A3E4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {349B5CA9-08B2-420F-BC73-D690AC7435FB}
+	EndGlobalSection
+EndGlobal
